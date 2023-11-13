@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="1">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="294" y="54" width="516" height="132" />
+        <Position x="54" y="54" width="516" height="132" />
       </GuiSettings>
       <Properties>
         <Configuration>
